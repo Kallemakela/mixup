@@ -4,9 +4,6 @@ Mixup implementation and visualization
 
 ### TODO
 
-- CNN on cifar10
-
-
 ```python
 from collections import OrderedDict
 from copy import deepcopy
