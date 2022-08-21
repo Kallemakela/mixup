@@ -2,8 +2,6 @@
 
 Mixup implementation and visualization
 
-### TODO
-
 ```python
 from collections import OrderedDict
 from copy import deepcopy
