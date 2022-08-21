@@ -1,0 +1,846 @@
+Device: cuda
+Files already downloaded and verified
+Files already downloaded and verified
+Training from models/cifar_net.pth scratch.
+Adjusting learning rate of group 0 to 1.0000e-03.
+[1, 500] loss: 1.970
+Adjusting learning rate of group 0 to 1.0000e-03.
+[1] loss: 1435.727 time: 50.325
+Accuracy: 45.52%
+[2, 500] loss: 1.490
+Adjusting learning rate of group 0 to 1.0000e-03.
+[2] loss: 1142.716 time: 50.693
+Accuracy: 53.75%
+[3, 500] loss: 1.327
+Adjusting learning rate of group 0 to 1.0000e-03.
+[3] loss: 1029.725 time: 50.801
+Accuracy: 55.54%
+[4, 500] loss: 1.233
+Adjusting learning rate of group 0 to 1.0000e-03.
+[4] loss: 953.272 time: 50.861
+Accuracy: 60.00%
+[5, 500] loss: 1.146
+Adjusting learning rate of group 0 to 1.0000e-03.
+[5] loss: 893.026 time: 51.073
+Accuracy: 60.19%
+[6, 500] loss: 1.083
+Adjusting learning rate of group 0 to 1.0000e-03.
+[6] loss: 844.858 time: 50.937
+Accuracy: 65.51%
+[7, 500] loss: 1.028
+Adjusting learning rate of group 0 to 1.0000e-03.
+[7] loss: 802.347 time: 50.862
+Accuracy: 66.57%
+[8, 500] loss: 0.981
+Adjusting learning rate of group 0 to 1.0000e-03.
+[8] loss: 770.065 time: 50.762
+Accuracy: 67.60%
+[9, 500] loss: 0.941
+Adjusting learning rate of group 0 to 1.0000e-03.
+[9] loss: 736.319 time: 50.910
+Accuracy: 68.23%
+[10, 500] loss: 0.920
+Adjusting learning rate of group 0 to 1.0000e-03.
+[10] loss: 716.015 time: 50.739
+Accuracy: 69.66%
+[11, 500] loss: 0.881
+Adjusting learning rate of group 0 to 1.0000e-03.
+[11] loss: 688.525 time: 50.327
+Accuracy: 69.49%
+[12, 500] loss: 0.863
+Adjusting learning rate of group 0 to 1.0000e-03.
+[12] loss: 670.729 time: 49.624
+Accuracy: 70.75%
+[13, 500] loss: 0.825
+Adjusting learning rate of group 0 to 1.0000e-03.
+[13] loss: 645.997 time: 51.090
+Accuracy: 71.38%
+[14, 500] loss: 0.809
+Adjusting learning rate of group 0 to 1.0000e-03.
+[14] loss: 633.511 time: 50.940
+Accuracy: 71.12%
+[15, 500] loss: 0.794
+Adjusting learning rate of group 0 to 1.0000e-03.
+[15] loss: 618.996 time: 51.330
+Accuracy: 72.42%
+[16, 500] loss: 0.773
+Adjusting learning rate of group 0 to 1.0000e-03.
+[16] loss: 603.005 time: 51.400
+Accuracy: 72.86%
+[17, 500] loss: 0.760
+Adjusting learning rate of group 0 to 1.0000e-03.
+[17] loss: 592.316 time: 50.823
+Accuracy: 73.51%
+[18, 500] loss: 0.738
+Adjusting learning rate of group 0 to 1.0000e-03.
+[18] loss: 577.601 time: 50.899
+Accuracy: 74.26%
+[19, 500] loss: 0.715
+Adjusting learning rate of group 0 to 1.0000e-03.
+[19] loss: 560.772 time: 51.207
+Accuracy: 74.27%
+[20, 500] loss: 0.706
+Adjusting learning rate of group 0 to 1.0000e-03.
+[20] loss: 552.184 time: 50.993
+Accuracy: 73.96%
+[21, 500] loss: 0.686
+Adjusting learning rate of group 0 to 1.0000e-03.
+[21] loss: 535.445 time: 52.461
+Accuracy: 74.54%
+[22, 500] loss: 0.675
+Adjusting learning rate of group 0 to 1.0000e-03.
+[22] loss: 527.301 time: 47.601
+Accuracy: 74.71%
+[23, 500] loss: 0.656
+Adjusting learning rate of group 0 to 1.0000e-03.
+[23] loss: 516.184 time: 50.902
+Accuracy: 75.15%
+[24, 500] loss: 0.645
+Adjusting learning rate of group 0 to 1.0000e-03.
+[24] loss: 505.351 time: 51.192
+Accuracy: 75.71%
+[25, 500] loss: 0.627
+Adjusting learning rate of group 0 to 1.0000e-03.
+[25] loss: 493.306 time: 41.679
+Accuracy: 75.18%
+[26, 500] loss: 0.625
+Adjusting learning rate of group 0 to 1.0000e-03.
+[26] loss: 488.418 time: 50.791
+Accuracy: 75.48%
+[27, 500] loss: 0.604
+Adjusting learning rate of group 0 to 1.0000e-03.
+[27] loss: 474.603 time: 50.783
+Accuracy: 76.27%
+[28, 500] loss: 0.595
+Adjusting learning rate of group 0 to 1.0000e-03.
+[28] loss: 469.720 time: 50.781
+Accuracy: 77.02%
+[29, 500] loss: 0.586
+Adjusting learning rate of group 0 to 1.0000e-03.
+[29] loss: 460.587 time: 51.003
+Accuracy: 76.80%
+[30, 500] loss: 0.579
+Adjusting learning rate of group 0 to 1.0000e-03.
+[30] loss: 451.645 time: 51.241
+Accuracy: 76.18%
+[31, 500] loss: 0.563
+Adjusting learning rate of group 0 to 1.0000e-03.
+[31] loss: 443.873 time: 50.569
+Accuracy: 76.48%
+[32, 500] loss: 0.565
+Adjusting learning rate of group 0 to 1.0000e-03.
+[32] loss: 440.646 time: 50.737
+Accuracy: 76.68%
+[33, 500] loss: 0.542
+Adjusting learning rate of group 0 to 1.0000e-03.
+[33] loss: 428.110 time: 48.956
+Accuracy: 76.93%
+[34, 500] loss: 0.532
+Adjusting learning rate of group 0 to 1.0000e-03.
+[34] loss: 422.459 time: 50.857
+Accuracy: 77.48%
+[35, 500] loss: 0.536
+Adjusting learning rate of group 0 to 1.0000e-03.
+[35] loss: 415.531 time: 50.712
+Accuracy: 77.76%
+[36, 500] loss: 0.511
+Adjusting learning rate of group 0 to 1.0000e-03.
+[36] loss: 405.116 time: 50.825
+Accuracy: 77.48%
+[37, 500] loss: 0.499
+Adjusting learning rate of group 0 to 1.0000e-03.
+[37] loss: 396.121 time: 50.512
+Accuracy: 77.77%
+[38, 500] loss: 0.492
+Adjusting learning rate of group 0 to 1.0000e-03.
+[38] loss: 390.067 time: 50.856
+Accuracy: 77.98%
+[39, 500] loss: 0.493
+Adjusting learning rate of group 0 to 1.0000e-03.
+[39] loss: 390.204 time: 46.011
+Accuracy: 77.18%
+[40, 500] loss: 0.482
+Adjusting learning rate of group 0 to 1.0000e-03.
+[40] loss: 380.186 time: 50.838
+Accuracy: 78.19%
+[41, 500] loss: 0.477
+Adjusting learning rate of group 0 to 1.0000e-03.
+[41] loss: 375.698 time: 51.135
+Accuracy: 78.62%
+[42, 500] loss: 0.469
+Adjusting learning rate of group 0 to 1.0000e-03.
+[42] loss: 369.154 time: 50.055
+Accuracy: 77.66%
+[43, 500] loss: 0.457
+Adjusting learning rate of group 0 to 1.0000e-03.
+[43] loss: 359.396 time: 50.905
+Accuracy: 78.43%
+[44, 500] loss: 0.448
+Adjusting learning rate of group 0 to 1.0000e-03.
+[44] loss: 353.852 time: 48.372
+Accuracy: 78.26%
+[45, 500] loss: 0.439
+Adjusting learning rate of group 0 to 1.0000e-03.
+[45] loss: 347.289 time: 50.841
+Accuracy: 78.88%
+[46, 500] loss: 0.432
+Adjusting learning rate of group 0 to 1.0000e-03.
+[46] loss: 341.890 time: 49.401
+Accuracy: 78.14%
+[47, 500] loss: 0.429
+Adjusting learning rate of group 0 to 1.0000e-03.
+[47] loss: 338.145 time: 42.004
+Accuracy: 78.37%
+[48, 500] loss: 0.421
+Adjusting learning rate of group 0 to 1.0000e-03.
+[48] loss: 333.459 time: 51.040
+Accuracy: 78.87%
+[49, 500] loss: 0.423
+Adjusting learning rate of group 0 to 1.0000e-03.
+[49] loss: 330.449 time: 50.832
+Accuracy: 78.86%
+[50, 500] loss: 0.408
+Adjusting learning rate of group 0 to 1.0000e-03.
+[50] loss: 323.107 time: 50.837
+Accuracy: 78.62%
+[51, 500] loss: 0.405
+Adjusting learning rate of group 0 to 1.0000e-03.
+[51] loss: 318.629 time: 50.598
+Accuracy: 78.84%
+[52, 500] loss: 0.396
+Adjusting learning rate of group 0 to 1.0000e-03.
+[52] loss: 311.429 time: 50.457
+Accuracy: 78.18%
+[53, 500] loss: 0.395
+Adjusting learning rate of group 0 to 1.0000e-03.
+[53] loss: 308.765 time: 50.934
+Accuracy: 78.91%
+[54, 500] loss: 0.380
+Adjusting learning rate of group 0 to 1.0000e-03.
+[54] loss: 298.333 time: 51.175
+Accuracy: 78.69%
+[55, 500] loss: 0.370
+Adjusting learning rate of group 0 to 1.0000e-03.
+[55] loss: 292.553 time: 51.075
+Accuracy: 79.64%
+[56, 500] loss: 0.371
+Adjusting learning rate of group 0 to 1.0000e-03.
+[56] loss: 294.402 time: 50.745
+Accuracy: 78.82%
+[57, 500] loss: 0.367
+Adjusting learning rate of group 0 to 1.0000e-03.
+[57] loss: 287.234 time: 50.782
+Accuracy: 79.31%
+[58, 500] loss: 0.361
+Adjusting learning rate of group 0 to 1.0000e-03.
+[58] loss: 283.845 time: 51.264
+Accuracy: 79.34%
+[59, 500] loss: 0.349
+Adjusting learning rate of group 0 to 1.0000e-03.
+[59] loss: 278.681 time: 50.245
+Accuracy: 79.72%
+[60, 500] loss: 0.343
+Adjusting learning rate of group 0 to 1.0000e-03.
+[60] loss: 270.307 time: 49.780
+Accuracy: 78.72%
+[61, 500] loss: 0.338
+Adjusting learning rate of group 0 to 1.0000e-03.
+[61] loss: 268.292 time: 50.932
+Accuracy: 78.72%
+[62, 500] loss: 0.335
+Adjusting learning rate of group 0 to 1.0000e-03.
+[62] loss: 267.364 time: 49.358
+Accuracy: 79.54%
+[63, 500] loss: 0.329
+Adjusting learning rate of group 0 to 1.0000e-03.
+[63] loss: 261.962 time: 44.342
+Accuracy: 79.11%
+[64, 500] loss: 0.322
+Adjusting learning rate of group 0 to 1.0000e-03.
+[64] loss: 252.422 time: 50.571
+Accuracy: 78.56%
+[65, 500] loss: 0.321
+Adjusting learning rate of group 0 to 1.0000e-03.
+[65] loss: 252.101 time: 50.367
+Accuracy: 79.20%
+[66, 500] loss: 0.314
+Adjusting learning rate of group 0 to 1.0000e-03.
+[66] loss: 247.849 time: 51.092
+Accuracy: 78.71%
+[67, 500] loss: 0.309
+Adjusting learning rate of group 0 to 1.0000e-03.
+[67] loss: 242.830 time: 50.623
+Accuracy: 79.25%
+[68, 500] loss: 0.307
+Adjusting learning rate of group 0 to 1.0000e-03.
+[68] loss: 239.984 time: 50.950
+Accuracy: 79.26%
+[69, 500] loss: 0.299
+Adjusting learning rate of group 0 to 1.0000e-03.
+[69] loss: 236.254 time: 50.968
+Accuracy: 78.49%
+[70, 500] loss: 0.295
+Adjusting learning rate of group 0 to 1.0000e-03.
+[70] loss: 232.973 time: 50.916
+Accuracy: 79.65%
+[71, 500] loss: 0.286
+Adjusting learning rate of group 0 to 1.0000e-03.
+[71] loss: 226.575 time: 49.664
+Accuracy: 79.32%
+[72, 500] loss: 0.286
+Adjusting learning rate of group 0 to 1.0000e-03.
+[72] loss: 224.084 time: 49.440
+Accuracy: 78.73%
+[73, 500] loss: 0.273
+Adjusting learning rate of group 0 to 1.0000e-03.
+[73] loss: 216.915 time: 50.694
+Accuracy: 79.19%
+[74, 500] loss: 0.271
+Adjusting learning rate of group 0 to 1.0000e-03.
+[74] loss: 216.194 time: 50.765
+Accuracy: 79.31%
+[75, 500] loss: 0.260
+Adjusting learning rate of group 0 to 1.0000e-03.
+[75] loss: 210.298 time: 50.716
+Accuracy: 79.69%
+[76, 500] loss: 0.262
+Adjusting learning rate of group 0 to 1.0000e-03.
+[76] loss: 210.646 time: 49.696
+Accuracy: 79.44%
+[77, 500] loss: 0.253
+Adjusting learning rate of group 0 to 1.0000e-03.
+[77] loss: 203.310 time: 50.837
+Accuracy: 79.64%
+[78, 500] loss: 0.251
+Adjusting learning rate of group 0 to 1.0000e-03.
+[78] loss: 202.988 time: 50.724
+Accuracy: 79.20%
+[79, 500] loss: 0.254
+Adjusting learning rate of group 0 to 1.0000e-03.
+[79] loss: 201.418 time: 50.622
+Accuracy: 79.36%
+[80, 500] loss: 0.249
+Adjusting learning rate of group 0 to 1.0000e-03.
+[80] loss: 198.410 time: 50.657
+Accuracy: 79.81%
+[81, 500] loss: 0.240
+Adjusting learning rate of group 0 to 1.0000e-03.
+[81] loss: 196.012 time: 50.728
+Accuracy: 79.40%
+[82, 500] loss: 0.240
+Adjusting learning rate of group 0 to 1.0000e-03.
+[82] loss: 193.008 time: 50.411
+Accuracy: 79.77%
+[83, 500] loss: 0.234
+Adjusting learning rate of group 0 to 1.0000e-03.
+[83] loss: 186.877 time: 50.520
+Accuracy: 79.74%
+[84, 500] loss: 0.225
+Adjusting learning rate of group 0 to 1.0000e-03.
+[84] loss: 184.142 time: 50.535
+Accuracy: 79.58%
+[85, 500] loss: 0.224
+Adjusting learning rate of group 0 to 1.0000e-03.
+[85] loss: 178.145 time: 50.427
+Accuracy: 80.11%
+[86, 500] loss: 0.227
+Adjusting learning rate of group 0 to 1.0000e-03.
+[86] loss: 180.008 time: 49.944
+Accuracy: 80.12%
+[87, 500] loss: 0.217
+Adjusting learning rate of group 0 to 1.0000e-03.
+[87] loss: 171.331 time: 49.925
+Accuracy: 79.36%
+[88, 500] loss: 0.219
+Adjusting learning rate of group 0 to 1.0000e-03.
+[88] loss: 172.502 time: 50.477
+Accuracy: 79.93%
+[89, 500] loss: 0.219
+Adjusting learning rate of group 0 to 1.0000e-03.
+[89] loss: 170.683 time: 41.620
+Accuracy: 79.76%
+[90, 500] loss: 0.213
+Adjusting learning rate of group 0 to 1.0000e-03.
+[90] loss: 168.083 time: 50.891
+Accuracy: 79.59%
+[91, 500] loss: 0.213
+Adjusting learning rate of group 0 to 1.0000e-03.
+[91] loss: 168.523 time: 48.930
+Accuracy: 79.48%
+[92, 500] loss: 0.208
+Adjusting learning rate of group 0 to 1.0000e-03.
+[92] loss: 162.899 time: 50.906
+Accuracy: 79.83%
+[93, 500] loss: 0.205
+Adjusting learning rate of group 0 to 1.0000e-03.
+[93] loss: 163.089 time: 50.557
+Accuracy: 80.17%
+[94, 500] loss: 0.202
+Adjusting learning rate of group 0 to 1.0000e-03.
+[94] loss: 159.813 time: 50.831
+Accuracy: 79.54%
+[95, 500] loss: 0.192
+Adjusting learning rate of group 0 to 1.0000e-03.
+[95] loss: 154.130 time: 50.809
+Accuracy: 80.08%
+[96, 500] loss: 0.193
+Adjusting learning rate of group 0 to 1.0000e-03.
+[96] loss: 154.031 time: 50.609
+Accuracy: 80.08%
+[97, 500] loss: 0.184
+Adjusting learning rate of group 0 to 1.0000e-03.
+[97] loss: 148.211 time: 51.044
+Accuracy: 79.97%
+[98, 500] loss: 0.187
+Adjusting learning rate of group 0 to 1.0000e-03.
+[98] loss: 148.576 time: 50.732
+Accuracy: 79.99%
+[99, 500] loss: 0.185
+Adjusting learning rate of group 0 to 1.0000e-03.
+[99] loss: 146.781 time: 41.649
+Accuracy: 80.00%
+[100, 500] loss: 0.183
+Adjusting learning rate of group 0 to 1.0000e-04.
+[100] loss: 147.249 time: 46.886
+Accuracy: 80.41%
+[101, 500] loss: 0.152
+Adjusting learning rate of group 0 to 1.0000e-04.
+[101] loss: 114.865 time: 50.944
+Accuracy: 80.99%
+[102, 500] loss: 0.129
+Adjusting learning rate of group 0 to 1.0000e-04.
+[102] loss: 100.312 time: 50.471
+Accuracy: 81.18%
+[103, 500] loss: 0.119
+Adjusting learning rate of group 0 to 1.0000e-04.
+[103] loss: 94.787 time: 50.976
+Accuracy: 81.22%
+[104, 500] loss: 0.116
+Adjusting learning rate of group 0 to 1.0000e-04.
+[104] loss: 90.847 time: 50.906
+Accuracy: 81.20%
+[105, 500] loss: 0.113
+Adjusting learning rate of group 0 to 1.0000e-04.
+[105] loss: 88.820 time: 46.164
+Accuracy: 81.70%
+[106, 500] loss: 0.115
+Adjusting learning rate of group 0 to 1.0000e-04.
+[106] loss: 89.575 time: 50.689
+Accuracy: 81.44%
+[107, 500] loss: 0.106
+Adjusting learning rate of group 0 to 1.0000e-04.
+[107] loss: 83.812 time: 50.700
+Accuracy: 81.25%
+[108, 500] loss: 0.106
+Adjusting learning rate of group 0 to 1.0000e-04.
+[108] loss: 83.206 time: 50.112
+Accuracy: 81.26%
+[109, 500] loss: 0.106
+Adjusting learning rate of group 0 to 1.0000e-04.
+[109] loss: 84.040 time: 50.627
+Accuracy: 81.39%
+[110, 500] loss: 0.103
+Adjusting learning rate of group 0 to 1.0000e-04.
+[110] loss: 80.017 time: 50.737
+Accuracy: 81.53%
+[111, 500] loss: 0.099
+Adjusting learning rate of group 0 to 1.0000e-04.
+[111] loss: 78.133 time: 50.692
+Accuracy: 81.18%
+[112, 500] loss: 0.102
+Adjusting learning rate of group 0 to 1.0000e-04.
+[112] loss: 78.931 time: 50.719
+Accuracy: 81.41%
+[113, 500] loss: 0.100
+Adjusting learning rate of group 0 to 1.0000e-04.
+[113] loss: 78.341 time: 50.553
+Accuracy: 81.42%
+[114, 500] loss: 0.098
+Adjusting learning rate of group 0 to 1.0000e-04.
+[114] loss: 76.626 time: 50.650
+Accuracy: 81.47%
+[115, 500] loss: 0.096
+Adjusting learning rate of group 0 to 1.0000e-04.
+[115] loss: 75.028 time: 50.547
+Accuracy: 81.34%
+[116, 500] loss: 0.095
+Adjusting learning rate of group 0 to 1.0000e-04.
+[116] loss: 75.062 time: 50.871
+Accuracy: 81.30%
+[117, 500] loss: 0.095
+Adjusting learning rate of group 0 to 1.0000e-04.
+[117] loss: 74.853 time: 50.000
+Accuracy: 81.46%
+[118, 500] loss: 0.091
+Adjusting learning rate of group 0 to 1.0000e-04.
+[118] loss: 72.330 time: 51.220
+Accuracy: 81.28%
+[119, 500] loss: 0.093
+Adjusting learning rate of group 0 to 1.0000e-04.
+[119] loss: 73.335 time: 50.428
+Accuracy: 81.35%
+[120, 500] loss: 0.090
+Adjusting learning rate of group 0 to 1.0000e-04.
+[120] loss: 69.987 time: 50.925
+Accuracy: 81.75%
+[121, 500] loss: 0.088
+Adjusting learning rate of group 0 to 1.0000e-04.
+[121] loss: 69.231 time: 47.603
+Accuracy: 81.17%
+[122, 500] loss: 0.090
+Adjusting learning rate of group 0 to 1.0000e-04.
+[122] loss: 71.341 time: 51.209
+Accuracy: 81.29%
+[123, 500] loss: 0.092
+Adjusting learning rate of group 0 to 1.0000e-04.
+[123] loss: 71.022 time: 50.920
+Accuracy: 81.35%
+[124, 500] loss: 0.086
+Adjusting learning rate of group 0 to 1.0000e-04.
+[124] loss: 68.236 time: 50.579
+Accuracy: 81.11%
+[125, 500] loss: 0.086
+Adjusting learning rate of group 0 to 1.0000e-04.
+[125] loss: 66.869 time: 50.075
+Accuracy: 81.04%
+[126, 500] loss: 0.085
+Adjusting learning rate of group 0 to 1.0000e-04.
+[126] loss: 65.873 time: 49.504
+Accuracy: 81.64%
+[127, 500] loss: 0.084
+Adjusting learning rate of group 0 to 1.0000e-04.
+[127] loss: 68.878 time: 45.098
+Accuracy: 81.38%
+[128, 500] loss: 0.083
+Adjusting learning rate of group 0 to 1.0000e-04.
+[128] loss: 65.483 time: 50.507
+Accuracy: 81.03%
+[129, 500] loss: 0.081
+Adjusting learning rate of group 0 to 1.0000e-04.
+[129] loss: 64.592 time: 50.185
+Accuracy: 81.26%
+[130, 500] loss: 0.083
+Adjusting learning rate of group 0 to 1.0000e-04.
+[130] loss: 65.458 time: 50.659
+Accuracy: 81.37%
+[131, 500] loss: 0.081
+Adjusting learning rate of group 0 to 1.0000e-04.
+[131] loss: 63.790 time: 50.790
+Accuracy: 81.17%
+[132, 500] loss: 0.084
+Adjusting learning rate of group 0 to 1.0000e-04.
+[132] loss: 64.836 time: 49.990
+Accuracy: 81.29%
+[133, 500] loss: 0.082
+Adjusting learning rate of group 0 to 1.0000e-04.
+[133] loss: 65.095 time: 47.243
+Accuracy: 81.33%
+[134, 500] loss: 0.080
+Adjusting learning rate of group 0 to 1.0000e-04.
+[134] loss: 63.185 time: 50.306
+Accuracy: 81.43%
+[135, 500] loss: 0.078
+Adjusting learning rate of group 0 to 1.0000e-04.
+[135] loss: 62.017 time: 49.697
+Accuracy: 81.18%
+[136, 500] loss: 0.080
+Adjusting learning rate of group 0 to 1.0000e-04.
+[136] loss: 62.384 time: 50.943
+Accuracy: 81.17%
+[137, 500] loss: 0.078
+Adjusting learning rate of group 0 to 1.0000e-04.
+[137] loss: 62.278 time: 50.716
+Accuracy: 81.55%
+[138, 500] loss: 0.079
+Adjusting learning rate of group 0 to 1.0000e-04.
+[138] loss: 61.571 time: 50.900
+Accuracy: 81.24%
+[139, 500] loss: 0.075
+Adjusting learning rate of group 0 to 1.0000e-04.
+[139] loss: 59.994 time: 50.496
+Accuracy: 81.43%
+[140, 500] loss: 0.078
+Adjusting learning rate of group 0 to 1.0000e-04.
+[140] loss: 60.940 time: 50.930
+Accuracy: 81.12%
+Device: cuda
+Files already downloaded and verified
+Files already downloaded and verified
+Model cifar_net loaded.
+[1, 500] loss: 0.074
+[1] loss: 59.292 time: 51.908
+Accuracy: 81.46%
+Device: cuda
+Files already downloaded and verified
+Files already downloaded and verified
+Model cifar_net loaded.
+[1, 500] loss: 0.147
+[1] loss: 111.837 time: 49.375
+Accuracy: 80.02%
+[2, 500] loss: 0.130
+[2] loss: 101.634 time: 48.856
+Accuracy: 80.26%
+[3, 500] loss: 0.121
+[3] loss: 95.392 time: 49.025
+Accuracy: 80.38%
+[4, 500] loss: 0.120
+[4] loss: 92.248 time: 49.069
+Accuracy: 80.45%
+[5, 500] loss: 0.115
+[5] loss: 88.956 time: 49.077
+Accuracy: 80.58%
+[6, 500] loss: 0.112
+[6] loss: 84.710 time: 49.007
+Accuracy: 80.63%
+[7, 500] loss: 0.112
+[7] loss: 85.308 time: 40.273
+Accuracy: 80.69%
+[8, 500] loss: 0.107
+[8] loss: 83.146 time: 49.014
+Accuracy: 81.01%
+[9, 500] loss: 0.104
+[9] loss: 81.919 time: 49.093
+Accuracy: 80.68%
+[10, 500] loss: 0.104
+[10] loss: 80.597 time: 49.242
+Accuracy: 80.63%
+[11, 500] loss: 0.101
+[11] loss: 79.917 time: 43.565
+Accuracy: 80.85%
+[12, 500] loss: 0.102
+[12] loss: 80.244 time: 49.105
+Accuracy: 80.83%
+[13, 500] loss: 0.101
+[13] loss: 79.655 time: 46.207
+Accuracy: 80.57%
+[14, 500] loss: 0.099
+[14] loss: 77.468 time: 49.081
+Accuracy: 80.72%
+[15, 500] loss: 0.098
+[15] loss: 76.647 time: 48.951
+Accuracy: 80.77%
+[16, 500] loss: 0.098
+[16] loss: 76.985 time: 49.097
+Accuracy: 80.82%
+[17, 500] loss: 0.094
+[17] loss: 73.885 time: 49.009
+Accuracy: 80.83%
+[18, 500] loss: 0.096
+[18] loss: 75.977 time: 49.162
+Accuracy: 80.92%
+[19, 500] loss: 0.094
+[19] loss: 72.988 time: 49.199
+Accuracy: 80.95%
+[20, 500] loss: 0.093
+[20] loss: 73.780 time: 49.050
+Accuracy: 80.88%
+[21, 500] loss: 0.093
+[21] loss: 72.331 time: 46.151
+Accuracy: 80.84%
+[22, 500] loss: 0.095
+[22] loss: 74.390 time: 45.514
+Accuracy: 80.85%
+[23, 500] loss: 0.093
+[23] loss: 71.673 time: 49.169
+Accuracy: 81.06%
+[24, 500] loss: 0.090
+[24] loss: 69.835 time: 49.155
+Accuracy: 80.87%
+[25, 500] loss: 0.091
+[25] loss: 71.281 time: 43.414
+Accuracy: 80.87%
+[26, 500] loss: 0.091
+[26] loss: 70.389 time: 49.245
+Accuracy: 80.97%
+[27, 500] loss: 0.093
+[27] loss: 72.484 time: 49.263
+Accuracy: 80.99%
+[28, 500] loss: 0.092
+[28] loss: 73.132 time: 48.881
+Accuracy: 80.88%
+[29, 500] loss: 0.091
+[29] loss: 69.163 time: 49.119
+Accuracy: 80.78%
+[30, 500] loss: 0.091
+[30] loss: 70.496 time: 49.280
+Accuracy: 80.98%
+[31, 500] loss: 0.087
+[31] loss: 66.743 time: 49.251
+Accuracy: 80.97%
+[32, 500] loss: 0.088
+[32] loss: 69.327 time: 48.921
+Accuracy: 81.01%
+[33, 500] loss: 0.090
+[33] loss: 68.767 time: 49.091
+Accuracy: 81.05%
+[34, 500] loss: 0.085
+[34] loss: 68.340 time: 49.140
+Accuracy: 81.17%
+[35, 500] loss: 0.088
+[35] loss: 69.859 time: 47.711
+Accuracy: 80.98%
+[36, 500] loss: 0.086
+[36] loss: 67.873 time: 49.216
+Accuracy: 80.87%
+[37, 500] loss: 0.086
+[37] loss: 69.182 time: 49.098
+Accuracy: 81.18%
+[38, 500] loss: 0.087
+[38] loss: 67.234 time: 49.064
+Accuracy: 80.92%
+[111.83693915605545, 101.63409270346165, 95.39226856827736, 92.24822953343391, 88.95581655204296, 84.70998334884644, 85.3083311021328, 83.14564214646816, 81.9192641377449, 80.59687134623528, 79.91734181344509, 80.24444714188576, 79.65471233427525, 77.46782392263412, 76.64654104411602, 76.98507025837898, 73.88455504179001, 75.97706234455109, 72.98779739439487, 73.77967584133148, 72.33063453435898, 74.38979323208332, 71.67276887595654, 69.8349302560091, 71.28128570318222, 70.38861781358719, 72.48359560966492, 73.13226649165154, 69.16305388510227, 70.4958714991808, 66.74309629201889, 69.3269097507, 68.76674780249596, 68.33995373547077, 69.85890538990498, 67.873330026865, 69.18242554366589, 67.23373547196388]
+Device: cuda
+Files already downloaded and verified
+Files already downloaded and verified
+Model cifar_net loaded.
+[1, 500] loss: 0.085
+[1] loss: 66.074 time: 50.402
+Accuracy: 81.02%
+[2, 500] loss: 0.086
+[2] loss: 68.700 time: 48.855
+Accuracy: 80.87%
+[3, 500] loss: 0.084
+[3] loss: 65.174 time: 48.854
+Accuracy: 81.16%
+[4, 500] loss: 0.084
+[4] loss: 64.500 time: 48.564
+Accuracy: 80.94%
+[5, 500] loss: 0.083
+[5] loss: 66.401 time: 48.880
+Accuracy: 81.09%
+[6, 500] loss: 0.084
+[6] loss: 66.184 time: 39.858
+Accuracy: 81.10%
+[7, 500] loss: 0.083
+[7] loss: 64.928 time: 49.170
+Accuracy: 81.09%
+[8, 500] loss: 0.084
+[8] loss: 65.428 time: 49.032
+Accuracy: 81.18%
+[9, 500] loss: 0.084
+[9] loss: 64.479 time: 49.170
+Accuracy: 80.99%
+[10, 500] loss: 0.085
+[10] loss: 66.714 time: 43.449
+Accuracy: 81.23%
+[11, 500] loss: 0.081
+[11] loss: 64.284 time: 49.129
+Accuracy: 81.05%
+[12, 500] loss: 0.080
+[12] loss: 63.247 time: 49.222
+Accuracy: 81.06%
+[13, 500] loss: 0.083
+[13] loss: 65.595 time: 48.718
+Accuracy: 80.92%
+[14, 500] loss: 0.085
+[14] loss: 66.127 time: 49.134
+Accuracy: 81.11%
+[15, 500] loss: 0.080
+[15] loss: 62.478 time: 41.926
+Accuracy: 81.16%
+[16, 500] loss: 0.084
+[16] loss: 65.727 time: 49.084
+Accuracy: 81.21%
+[17, 500] loss: 0.082
+[17] loss: 64.503 time: 49.244
+Accuracy: 80.96%
+[18, 500] loss: 0.080
+[18] loss: 63.828 time: 48.897
+Accuracy: 80.80%
+[19, 500] loss: 0.080
+[19] loss: 62.758 time: 49.183
+Accuracy: 81.00%
+[20, 500] loss: 0.079
+[20] loss: 63.112 time: 49.135
+Accuracy: 80.90%
+[21, 500] loss: 0.081
+[21] loss: 63.551 time: 49.144
+Accuracy: 81.15%
+[22, 500] loss: 0.085
+[22] loss: 64.507 time: 49.020
+Accuracy: 81.02%
+[23, 500] loss: 0.081
+[23] loss: 62.172 time: 49.260
+Accuracy: 81.10%
+[24, 500] loss: 0.080
+[24] loss: 62.938 time: 49.171
+Accuracy: 81.17%
+[25, 500] loss: 0.079
+[25] loss: 62.016 time: 49.216
+Accuracy: 81.11%
+[26, 500] loss: 0.081
+[26] loss: 62.363 time: 49.197
+Accuracy: 81.15%
+[27, 500] loss: 0.080
+[27] loss: 62.571 time: 48.993
+Accuracy: 81.09%
+[28, 500] loss: 0.081
+[28] loss: 62.512 time: 40.525
+Accuracy: 81.27%
+[29, 500] loss: 0.077
+[29] loss: 61.540 time: 49.185
+Accuracy: 81.06%
+[30, 500] loss: 0.080
+[30] loss: 62.546 time: 49.292
+Accuracy: 81.19%
+[31, 500] loss: 0.078
+[31] loss: 61.053 time: 42.945
+Accuracy: 81.16%
+[32, 500] loss: 0.080
+[32] loss: 62.360 time: 48.984
+Accuracy: 81.08%
+[33, 500] loss: 0.080
+[33] loss: 62.127 time: 49.272
+Accuracy: 81.09%
+[34, 500] loss: 0.079
+[34] loss: 62.730 time: 49.069
+Accuracy: 80.96%
+[35, 500] loss: 0.078
+[35] loss: 62.830 time: 49.271
+Accuracy: 81.10%
+[36, 500] loss: 0.079
+[36] loss: 60.504 time: 40.226
+Accuracy: 81.30%
+[37, 500] loss: 0.074
+[37] loss: 58.189 time: 49.256
+Accuracy: 81.17%
+[38, 500] loss: 0.080
+[38] loss: 60.804 time: 49.413
+Accuracy: 81.11%
+[39, 500] loss: 0.080
+[39] loss: 61.899 time: 49.367
+Accuracy: 80.99%
+[40, 500] loss: 0.078
+[40] loss: 60.581 time: 49.253
+Accuracy: 81.08%
+[41, 500] loss: 0.079
+[41] loss: 60.489 time: 49.210
+Accuracy: 80.97%
+[42, 500] loss: 0.077
+[42] loss: 59.957 time: 49.301
+Accuracy: 81.01%
+[43, 500] loss: 0.075
+[43] loss: 59.481 time: 49.291
+Accuracy: 81.37%
+[44, 500] loss: 0.073
+[44] loss: 58.747 time: 49.249
+Accuracy: 80.96%
+[45, 500] loss: 0.077
+[45] loss: 59.750 time: 48.883
+Accuracy: 81.09%
+[46, 500] loss: 0.077
+[46] loss: 61.228 time: 47.931
+Accuracy: 81.00%
+[47, 500] loss: 0.077
+[47] loss: 59.178 time: 41.046
+Accuracy: 81.10%
+[48, 500] loss: 0.075
+[48] loss: 59.337 time: 49.326
+Accuracy: 81.15%
+[49, 500] loss: 0.077
+[49] loss: 61.052 time: 49.303
+Accuracy: 80.98%
+[50, 500] loss: 0.076
+[50] loss: 59.321 time: 48.369
+Accuracy: 81.01%
+[66.07444700598717, 68.69971665740013, 65.1741736382246, 64.50001795589924, 66.40104031562805, 66.18354640901089, 64.92830766737461, 65.42756244540215, 64.47852602601051, 66.71391980350018, 64.28394828736782, 63.24651762843132, 65.5953444391489, 66.12688605487347, 62.47793996334076, 65.72674138844013, 64.50314332544804, 63.827641710639, 62.75772660970688, 63.111835956573486, 63.55105121433735, 64.50706401467323, 62.17183820903301, 62.938179925084114, 62.01637586951256, 62.36338010430336, 62.571263030171394, 62.511561676859856, 61.54021096229553, 62.546121910214424, 61.05267450213432, 62.35959532856941, 62.12747676670551, 62.730072781443596, 62.83014450967312, 60.50376334786415, 58.188841819763184, 60.80395105481148, 61.89853045344353, 60.58148956298828, 60.48913376033306, 59.957150891423225, 59.480776861310005, 58.74676674604416, 59.74993169307709, 61.228457152843475, 59.17786526679993, 59.33727829158306, 61.05164587497711, 59.32135671377182]
